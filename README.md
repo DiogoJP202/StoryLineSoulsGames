@@ -11,3 +11,7 @@ Link do site usado para fazer o gráfico:
 Link do banco de dados de alimentação do Iframe: 
 
 👉 [Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_u2h-6yAl4fIzQwCtBGbGwxIVttJs6rwjxMRaYRufdtomRlcgnCj4fDlIWw--QSM3JwteYZM7aVZF/pubhtml)
+
+Link da página funcional: 
+
+👉 [Página](https://diogojp202.github.io/StoryLineSoulsGames/)
